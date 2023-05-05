@@ -1,0 +1,7 @@
+pypdf==3.8.1
+pycryptodome==3.17
+tensorflow==2.12.*
+opencv-python==4.7.0.72
+numpy==1.23
+matplotlib==3.7.1
+keras-facenet==0.3.2
